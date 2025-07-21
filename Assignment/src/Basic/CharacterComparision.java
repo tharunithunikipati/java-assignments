@@ -1,5 +1,5 @@
 package Basic;
-
+//basic 
 public class CharacterComparision {
 	public static void main(String args[]) {
 		char ch1='7';
