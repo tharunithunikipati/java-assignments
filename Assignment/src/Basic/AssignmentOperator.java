@@ -14,4 +14,4 @@ public class AssignmentOperator {
 		System.out.println("a%=6 :"+a);
 	}
 }
-//Assignment operator
+
