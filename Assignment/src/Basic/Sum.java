@@ -1,5 +1,5 @@
 package Basic;
-//basic 
+import java.util.*;
 public class Sum {
 public static void main(String[] args) {
 int x = 5;
