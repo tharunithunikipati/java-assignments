@@ -1,5 +1,5 @@
 package Basic;
-//basic 
+
 public class Ternary {
 		public static void main(String args[]) {
 			int numa=12;
