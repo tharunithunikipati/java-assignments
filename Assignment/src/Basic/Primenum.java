@@ -1,5 +1,5 @@
 package Basic;
-
+import java.util.*;
 public class Primenum {
 
 	public static void main(String[] args) {
