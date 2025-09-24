@@ -1,7 +1,5 @@
 package Basic;
-
 public class Grades {
-
 	public static void main(String[] args) {
 		int total=350;
 		char grade=' ';
