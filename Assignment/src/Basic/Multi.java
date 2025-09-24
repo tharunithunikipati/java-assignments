@@ -1,5 +1,4 @@
 package Basic;
-
 public class Multi {
 public static void main(String args[]) {
 	int num=89;
@@ -8,4 +7,4 @@ public static void main(String args[]) {
 	}
 }
 }
-//65rftyujvbnlkm
+
