@@ -1,9 +1,6 @@
 package Basic;
-//basic 
 import java.util.Scanner;
-
 public class Leapyear {
-
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		int a;
@@ -13,7 +10,6 @@ public class Leapyear {
 		String c="not a leapyear";
 		String year=(a%4==0 && a%100==0 && a%400==0)?b:c;
 		System.out.println(year);
-
 	}
 
 }
