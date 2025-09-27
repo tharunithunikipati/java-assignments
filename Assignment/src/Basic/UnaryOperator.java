@@ -10,5 +10,4 @@ public class UnaryOperator {
 		System.out.println("A value is:"+c);
 		System.out.println("B value is:"+a);
 	}
-
 }
