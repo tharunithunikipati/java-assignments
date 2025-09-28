@@ -1,5 +1,4 @@
 package Basic;
-
 public class NestedIf {
 	public static void main(String args[]) {
 		        int age = 25, price = 0;
