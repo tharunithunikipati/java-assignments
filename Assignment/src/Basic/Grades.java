@@ -12,7 +12,5 @@ public class Grades {
 		else 
 		grade ='D';
 		System.out.println("Grade is: "+grade);	
-
 	}
-
 }
