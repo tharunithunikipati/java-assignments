@@ -8,7 +8,7 @@ public class Loops {
 	}
 }
 //even numbers from 2to100
-//int i=2;
-//for(i=2;i<=200;i++) {
-//System.out.println(i+"");
-//}
+int i=2;
+for(i=2;i<=200;i++) {
+System.out.println(i+"");
+}
