@@ -22,7 +22,6 @@ public static void main(String args[]) {
 		 break;
 		 default:
 			 System.out.println("Enter valid values");
-	 }
-	
+	 }	
 }
 }
