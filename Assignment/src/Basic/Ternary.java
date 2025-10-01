@@ -8,8 +8,7 @@ public class Ternary {
 			System.out.println(numa+" ,"+numb+" ,"+numc+" ,"+numd+" ,");
 			int min = numb<numa?numb:numa;
 			int max=numd<numc?numd:numc;
-			System.out.println("the greatest of the four numbers:"+ max);
-			
+			System.out.println("the greatest of the four numbers:"+ max);	
 		}
 
 	}
