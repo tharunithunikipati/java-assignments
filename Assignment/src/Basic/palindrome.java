@@ -11,7 +11,6 @@ public class palindrome {
 			rev=rev*10+r;
 			n=n/10;
 		}
-		//System.out.println(rev);
 		if(m==rev) {
 			System.out.println("palindrome");
 		}
