@@ -1,5 +1,4 @@
 package Basic;
-
 public class CharacterComparision {
 	public static void main(String args[]) {
 		char ch1='7';
@@ -14,5 +13,4 @@ public class CharacterComparision {
 			System.out.println("ch2 is greater");
 		}
 	}
-
 }
