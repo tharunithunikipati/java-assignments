@@ -1,5 +1,4 @@
 package Basic;
-
 public class Evenodd {
 	public static void main(String[] args) {
 		int n=123456789,digit=0,evencount=0,oddcount=0;
@@ -16,5 +15,4 @@ public class Evenodd {
 		System.out.println("evencount:"+evencount);
 		System.out.println("oddcount:"+oddcount);
 	}
-
 }
