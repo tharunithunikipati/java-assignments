@@ -1,5 +1,4 @@
 package Basic;
-//basic 
 public class DriverInsurance {
 	public static void main(String args[]) {
 		String gender="Female"; //male or female
@@ -13,5 +12,4 @@ public class DriverInsurance {
 			System.out.println("driver is insured and unmarried male above age 25");
 		}
 	}
-
 }
