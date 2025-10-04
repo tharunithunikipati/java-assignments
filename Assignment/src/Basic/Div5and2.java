@@ -1,5 +1,4 @@
 package Basic;
-//basic 
 public class Div5and2 {
 	public static void main(String args[]) {
 		int s=8;
@@ -10,5 +9,4 @@ public class Div5and2 {
 			System.out.println("number is not divisible by 5 and 11");
 		}
 	}
-
 }
