@@ -1,7 +1,5 @@
 package Basic;
-//basic 
 import java.util.Scanner;
-
 public class LargestOfTwo {
 	 public static void main(String[] args) {
 		 Scanner scanner=new Scanner(System.in);
