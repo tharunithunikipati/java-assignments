@@ -1,7 +1,5 @@
 package Basic;
-
 public class IfLadder {
-
 	public static void main(String[] args) {
 	int units=500;
 	float price=0.0f;
@@ -13,8 +11,7 @@ public class IfLadder {
 		price=units*3.0f;
 	else
 		price=units*4.0f;
-	System.out.println("price value:"+price);
-		
+	System.out.println("price value:"+price);	
 	}
 	}
 
