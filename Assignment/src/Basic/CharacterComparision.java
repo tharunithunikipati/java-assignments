@@ -13,4 +13,5 @@ public class CharacterComparision {
 			System.out.println("ch2 is greater");
 		}
 	}
+	
 }
