@@ -22,7 +22,5 @@ public class Armstrong {
 		else {
 			System.out.println("not");
 		}
-////// oiugyftdrcfhbn
 	}
-
 }
