@@ -10,7 +10,6 @@ public class Ternary {
 			int max=numd<numc?numd:numc;
 			System.out.println("the greatest of the four numbers:"+ max);	
 		}
-
 	}
 
 
