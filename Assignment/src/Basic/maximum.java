@@ -9,12 +9,10 @@ public class maximum {
 	a=sc.nextInt();
 	b=sc.nextInt();
 	if(a>b) {
-		System.out.println("a is max");
-	
+		System.out.println("a is max");	
 	}
 	else if(b>a) {
 		System.out.println("b is min");
 	}
 	}
-
 }
