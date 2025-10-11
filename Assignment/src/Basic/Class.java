@@ -13,5 +13,4 @@ public class Class {
 		System.out.println("D value is:"+d);
 		System.out.println("C value is:"+c);
 	}
-
 }
