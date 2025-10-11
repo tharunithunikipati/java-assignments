@@ -8,6 +8,5 @@ public class Check33 {
 			boolean bothconditiontrue=condition1 && condition2;
 			System.out.println(bothconditiontrue);
 	}
-
 }
 
