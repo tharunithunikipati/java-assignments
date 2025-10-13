@@ -1,4 +1,5 @@
 package Basic;
+
 import java.util.*;
 public class Day {
 public static void main(String args[]) {
