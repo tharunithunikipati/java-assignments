@@ -1,5 +1,4 @@
 package Basic;
-
 public class PositiveNegitive {
 public static void main(String args[]) {
 	int num=95;
