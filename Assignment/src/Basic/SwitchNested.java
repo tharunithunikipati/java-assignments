@@ -1,5 +1,5 @@
 package Basic;
-
+import java.util;
 public class SwitchNested {
 public static void main(String args[]) {
 	 int year=2;
