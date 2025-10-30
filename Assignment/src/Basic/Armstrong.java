@@ -8,6 +8,7 @@ public class Armstrong {
 			temp1=temp1/10;
 			count++;	
 		}
+		
 		System.out.println("count:"+count);
 		temp2=n;
 		while(temp2>0) {
