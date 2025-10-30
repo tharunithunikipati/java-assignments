@@ -15,7 +15,6 @@ public class Armstrong {
 			sum=(sum+Math.pow(digit,count));
 			temp2=temp2/10;	
 		}
-		
 		if(sum==n) {
 			System.out.println("Armstrong");
 		}
