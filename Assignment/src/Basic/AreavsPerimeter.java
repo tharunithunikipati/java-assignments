@@ -12,7 +12,6 @@ public static void main(String args[]) {
 		System.out.println("area is greater");
 	}else if(perimeter>area) {
 		System.out.println("perimeter is greater");
-	
 	}else {
 		System.out.println("both are same");
 		
