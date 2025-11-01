@@ -6,6 +6,5 @@ public class Assign {
         int num2 = 25;
         int sum = num1 + num2;
         System.out.println("The sum is: " + sum);
-	}
-	
+	}	
 }
