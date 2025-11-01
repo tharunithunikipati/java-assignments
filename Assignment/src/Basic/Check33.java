@@ -1,5 +1,4 @@
 package Basic;
-
 public class Check33 {
 	public static void main(String args[]) {
 		    int a=55;
