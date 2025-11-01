@@ -7,4 +7,5 @@ public class Assign {
         int sum = num1 + num2;
         System.out.println("The sum is: " + sum);
 	}
+	
 }
