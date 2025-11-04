@@ -5,6 +5,7 @@ public class Control {
 		if(bal_amount>=withdrawl_amt) {
 			bal_amount=withdrawl_amt;
 			System.out.println("Balance:"+bal_amount);
+			
 		}
 	}
 }
