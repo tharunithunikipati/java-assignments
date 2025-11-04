@@ -12,5 +12,6 @@ public class Class {
 		d=c-- + ++c;
 		System.out.println("D value is:"+d);
 		System.out.println("C value is:"+c);
+		
 	}
 }
