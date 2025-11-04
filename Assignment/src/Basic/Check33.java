@@ -7,6 +7,7 @@ public class Check33 {
 			boolean condition2=a<b;
 			boolean bothconditiontrue=condition1 && condition2;
 			System.out.println(bothconditiontrue);
+		
 	}
 }
 
