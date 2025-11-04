@@ -1,6 +1,5 @@
 package Basic;
 import java.util.*;
-
 public class Average {
 	public static void main(String args[]) {
 		int a=1,b=3,c=7,d=8,e=9;
