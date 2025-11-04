@@ -12,7 +12,6 @@ public static void main(String args[]) {
 		System.out.println("ch1 is greater");
 	}else {
 		System.out.println("ch2 is greater");
-	}
-	
+	}	
 }
 }
