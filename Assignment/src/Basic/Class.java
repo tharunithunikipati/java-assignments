@@ -11,7 +11,6 @@ public class Class {
 		System.out.println("C value is:"+c);
 		d=c-- + ++c;
 		System.out.println("D value is:"+d);
-		System.out.println("C value is:"+c);
-		
+		System.out.println("C value is:"+c);	
 	}
 }
