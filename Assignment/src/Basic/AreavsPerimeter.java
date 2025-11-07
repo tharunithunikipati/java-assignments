@@ -1,5 +1,4 @@
 package Basic;
-import java.util.*;
 public class AreavsPerimeter {
 public static void main(String args[]) {
 	int length=20;
