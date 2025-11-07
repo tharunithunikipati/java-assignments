@@ -1,5 +1,5 @@
 package Basic;
-import java.util.*;
+import java.util;
 public class AssignmentOperator {
 	public static void main(String args[]) {
 		int a=2345;
