@@ -8,5 +8,6 @@ public class DecrementOperator {
 	c=a--;
 	System.out.println("c value is:"+c);
 	System.out.println("A value is:"+a);
+		
 	}
 }
