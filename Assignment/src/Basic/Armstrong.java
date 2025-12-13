@@ -1,6 +1,5 @@
 package Basic;
 import java.util.Scanner;
-
 public class Armstrong {
 	public static void main(String[] args) {
 		int n=1634,count=0,digit=0,temp1=0,temp2=0;
