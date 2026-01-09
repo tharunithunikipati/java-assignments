@@ -2,7 +2,6 @@ package Basic;
 public class AreavsPerimeter {
 
 
-
 public static void main(String args[]) {
 	int length=20;
 	int breath=60;
