@@ -1,5 +1,4 @@
 package Basic;
-
 public class Div5and2 {
 	public static void main(String args[]) {
 		int s=8;
