@@ -7,23 +7,20 @@ public class Armstrong {
 		temp1=n;//hjkrgfjg
 		while(temp1>0) {
 			temp1=temp1/10;
-			count++;	
-			
+			count++;		
 		}
 		System.out.println("count:"+count);
 		temp2=n;
 		while(temp2>0) {
 			digit=temp2%10;
 			sum=(sum+Math.pow(digit,count));
-			temp2=temp2/10;	
-			
+			temp2=temp2/10;			
 		}
 		if(sum==n) {
 			System.out.println("Armstrong");
 		}
 		else {
-			System.out.println("not");
-			
+			System.out.println("not");	
 		}
 	}
 }
