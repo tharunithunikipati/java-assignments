@@ -10,7 +10,6 @@ public class DriverInsurance {
 			System.out.println("driver is insured and unmarried male above age 30");
 		} else if(gender.equalsIgnoreCase("Female")&&age>25) {
 			System.out.println("driver is insured and unmarried male above age 25");
-		}
-		
+		}	
 	}
 }
