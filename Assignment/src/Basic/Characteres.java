@@ -1,6 +1,5 @@
 package Basic;
 import java.util.Scanner;
-
 public class Characteres {
 public static void main(String args[]) {
 	char ch1='S';
